@@ -1,0 +1,5 @@
+# 忽略 API 密钥
+apikey.json
+
+# 忽略 Jupyter 检查点
+.ipynb_checkpoints/
