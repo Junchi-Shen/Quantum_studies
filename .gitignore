@@ -2,4 +2,7 @@
 apikey.json
 
 # 忽略 Jupyter 检查点
-.ipynb_checkpoints/
+.ipynb_checkpoints
+
+classiq-library/
+quantum_neural_network/GSoC-Quantum-Diffusion-Model/

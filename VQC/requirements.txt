@@ -1,0 +1,3 @@
+pylatexenc
+qiskit
+qiskit_machine_learning
